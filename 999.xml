@@ -1,34 +1,59 @@
 <products>
  <product>
  <!-- [*] Your unique category ID, please give the smallest products group you have, but not brands -->
- <category-id>1268</category-id>
+ <category-id>10391</category-id>
  <!-- [*] Your category name (better with full path, eg. Books/Novels/Jo Nesbo/) MANDATORY -->
- <category-name><![CDATA[Novels]]></category-name>
+ <category-name>Dog bowls, pet food containers [10391]</category-name>
  <!-- [#] Product title LT language -->
- <title><![CDATA[Product title LT language]]></title>
+ <title>Petnešos naminiams gyvūnėliams (M krūtinė 49–67 cm)</title>
  <!-- [#] Product title in RU language -->
- <title-ru><![CDATA[Product title in RU language]]></title-ru>
+ <title-ru></title-ru>
  <!-- [#] Product title in LV language -->
- <title-lv><![CDATA[Product title in LV language]]></title-lv>
+ <title-lv>Mājdzīvnieku zirglietas (M krūtis 49-67 cm)</title-lv>
  <!-- [#] Product title in EE language -->
- <title-ee><![CDATA[Product title in EE language]]></title-ee>
+ <title-ee>Lemmikloomarakmed (M, rind 49–67 cm)</title-ee>
  <!-- [#] Product title in FI language -->
- <title-fi><![CDATA[Product title in FI language]]></title-fi>
+ <title-fi>Lemmikkivaljaat (M rinnanympärys 49-67 cm)</title-fi>
  <!-- [#] Long description LT language, can be with HTML -->
- <long-description><![CDATA[<div>
-<div><span>Long description, can be with HTML</span><br /></div>
-<div>Some long description</div>
-</div>]]></long-description>
+ <long-description><p>Specialus dideliems šunims, sprogimui atsparus smūgis, neišlaikomas </p>
+<p>Tvirtas ir patvarus, išplėstas ir sutirštintas, tvirtas </p>
+<p>Medžiaga: oda </p>
+<p>Produkto kategorija: krūtinės diržas </p>
+<p>Įtraukiamas: taip </p>
+<p>Spalva: juoda </p>
+<p>Techniniai duomenys (ilgis * plotis): M: krūtinės dydis 49–67 cm, L: krūtinės dydis 64–86 cm </p>
+<p> parduotuvė linki laimingo gyvenimo!</p></long-description>
  <!-- [#] Long description RU language, can be with HTML -->
- <long-description-ru><![CDATA[<p>Some long description in RU language.</p>]]></long-description-ru>
+ <long-description-ru></long-description-ru>
  <!-- [#] Long description LV language, can be with HTML -->
- <long-description-lv><![CDATA[<p>Some long description in LV language.</p>]]></long-description-lv>
+ <long-description-lv><p>Īpaši lieliem suņiem, sprādziendrošs perforators, nav saglabāts </p>
+<p>Stiprs un izturīgs, paplašināts un sabiezināts, stiprs </p>
+<p>Materiāls: āda </p>
+<p>Produkta kategorija: krūšu siksna </p>
+<p>Ievelkams: jā</p>
+<p>Krāsa: melna </p>
+<p>Specifikācijas (garums * platums): M: krūšu izmērs 49-67 cm, L: krūšu izmērs 64-86 cm </p>
+<p> veikals novēl jums laimīgu dzīvi!</p></long-description-lv>
  <!-- [#] Long description EE language, can be with HTML -->
- <long-description-ee><![CDATA[<p>Some long description in EE language.</p>]]></long-description-ee>
+ <long-description-ee><p>Spetsiaalne suurtele koertele, plahvatuskindel löök, ei säilitata </p>
+<p>Tugev ja vastupidav, laiendatud ja paksendatud, tugev </p>
+<p>Materjal: nahk </p>
+<p>Tootekategooria: rinnarihm </p>
+<p>Sissetõmmatav: jah </p>
+<p>Värv: must </p>
+<p>Tehnilised andmed (pikkus * laius): M: rinnaümbermõõt 49–67 cm, L: rinnaümbermõõt 64–86 cm </p>
+<p> pood soovib teile õnnelikku elu!</p></long-description-ee>
  <!-- [#] Long description FI language, can be with HTML -->
-<long-description-fi><![CDATA[<p>Some long description in FI language.</p>]]></long-description-fi>
+<long-description-fi><p>Erityinen suurille koirille, räjähdyssuojattu lävistys, ei säilytetty </p>
+<p>Vahva ja kestävä, levennetty ja paksunnettu, vahva </p>
+<p>Materiaali: nahka </p>
+<p>Tuoteluokka: Rintahihna </p>
+<p>Sisäänvedettävä: Kyllä </p>
+<p>Väri: Musta </p>
+<p>Tiedot (pituus * leveys): M: rinnanympärys 49-67 cm, L: rinnanympärys 64-86 cm </p>
+<p> kauppa toivottaa sinulle onnellista elämää!</p></long-description-fi>
  <!-- Youtube video URL -->
- <video-youtube>http://www.youtube.com/watch?v=65Chy5kPQ-Y</video-youtube>
+ <video-youtube></video-youtube>
  <!-- All other product attributes like manufacturer, country of origin, etc. -->
  <properties>
  <property>
@@ -61,7 +86,9 @@
  <image>
  <!-- [*] Image file URL from which we could download it from you, should be good quality, at least 
 ~1000x1000 size image. At least one image is required -->
- <url>http://image.server.lt/?id=10.jpg</url>
+ <url>https://cbu01.alicdn.com/img/ibank/2020/036/014/18333410630_1242344829.jpg</url>
+ <url>https://cbu01.alicdn.com/img/ibank/2020/415/914/18333419514_1242344829.jpg</url>
+  <url>https://cbu01.alicdn.com/img/ibank/2020/842/871/18334178248_1242344829.jpg</url>
  </image>
  </images>
  <modifications>
@@ -78,12 +105,12 @@
  <attributes>
  <!-- [*] Unique EAN code -->
  <barcodes>
- <barcode><![CDATA[012345678901]]></barcode>
+ <barcode>9053441848848</barcode>
  </barcodes>
  <!-- [*] Unique product code in your system MANDATORY -->
- <supplier-code><![CDATA[oxpg6964]]></supplier-code>
+ <supplier-code>HHQ-U00001</supplier-code>
  <!-- Manufacturer code, if you have such-->
- <manufacturer-code><![CDATA[G0133901]]></manufacturer-code>
+ <manufacturer-code>9053441848848</manufacturer-code>
  </attributes>
  </modification>
 </modifications>
